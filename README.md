@@ -60,7 +60,7 @@ npm run dev
 
 ### 3. Access Application
 
-For normal use, access the application through the deployed web interface using this [link](https://mlsched.com). The local URLs below are intended for development or running the system on your own machine.
+For normal use, access the application through the deployed web interface using this [link](https://mlsched.com). Access is restricted to authorized users. The local URLs below are intended for development or running the system on your own machine.
 
 - **Web App (Local)**: http://localhost:3000  
 - **Solver API**: http://localhost:8000  
